@@ -14,8 +14,6 @@ C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\ne
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Domain.pdb
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Persistence.pdb
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
-C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
-C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
@@ -55,3 +53,12 @@ C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\ne
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\API.StaticWebAssets.xml
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache

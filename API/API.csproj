@@ -1,11 +1,22 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Application\Application.csproj" />
     <ProjectReference Include="..\Persistence\Persistence.csproj" />
+    <!-- <GenerateRuntimeConfigurationFiles>True</GenerateRuntimeConfigurationFiles>
+    <PrivateAssets>all</PrivateAssets>  -->
   </ItemGroup>
 
   <PropertyGroup>
+    <!-- <GenerateRuntimeConfigurationFiles>True</GenerateRuntimeConfigurationFiles> -->
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>b31433f4-ea9c-4ea7-8cab-f6d1e3108958</UserSecretsId>
   </PropertyGroup>
