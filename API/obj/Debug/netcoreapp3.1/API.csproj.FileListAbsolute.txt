@@ -62,3 +62,6 @@ C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\ne
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll

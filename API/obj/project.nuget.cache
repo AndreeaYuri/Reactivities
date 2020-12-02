@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "c7qPufiQ6XKM9yiLlGFIgX6VJEEnGJnzSUGAMpSlPPHt1wp3nzc+N98sVV0edssU9iWh1UbuqnqtuUzKVkKbVQ==",
+  "dgSpecHash": "D43dw0LJYFOI5gWJzgzs3GKqE2MVN3JpQ4U709Thy9pGWVEVZ2ek8qDUoREFowH68csE8aHIOnscdZSW+3cBTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
