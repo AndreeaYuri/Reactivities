@@ -17,5 +17,5 @@
     "jsx": "preserve",
     "experimentalDecorators": true
   },
-  "include": ["src"]
+  "include": ["src","./typings-custom/**/*.ts"]
 }
