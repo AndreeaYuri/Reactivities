@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.deps.json
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Application.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Persistence.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Application.pdb
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Persistence.pdb
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csproj.CopyComplete
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.pdb
