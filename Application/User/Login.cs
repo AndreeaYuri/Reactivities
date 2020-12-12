@@ -1,13 +1,13 @@
+using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
-using Domain;
-using MediatR;
-using Persistence;
-using FluentValidation;
-using Microsoft.AspNetCore.Identity;
-using System.Net;
 using Application.Errors;
 using Application.Interfaces;
+using Domain;
+using FluentValidation;
+using MediatR;
+using Microsoft.AspNetCore.Identity;
+using Persistence;
 
 namespace Application.User
 {
@@ -18,6 +18,7 @@ namespace Application.User
             public string Email { get; set; }
             public string Password { get; set; }
         }
+
         public class QueryValidator : AbstractValidator<Query>
         {
             public QueryValidator()
@@ -26,17 +27,17 @@ namespace Application.User
                 RuleFor(x => x.Password).NotEmpty();
             }
         }
+
         public class Handler : IRequestHandler<Query, User>
         {
-            private readonly SignInManager<AppUser> _signInManager;
             private readonly UserManager<AppUser> _userManager;
+            private readonly SignInManager<AppUser> _signInManager;
             private readonly IJwtGenerator _jwtGenerator;
             public Handler(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, IJwtGenerator jwtGenerator)
             {
                 _jwtGenerator = jwtGenerator;
-                _userManager = userManager;
                 _signInManager = signInManager;
-
+                _userManager = userManager;
             }
 
             public async Task<User> Handle(Query request, CancellationToken cancellationToken)
@@ -46,11 +47,12 @@ namespace Application.User
                 if (user == null)
                     throw new RestException(HttpStatusCode.Unauthorized);
 
-                var result = await _signInManager.CheckPasswordSignInAsync(user, request.Password, false);
+                var result = await _signInManager
+                    .CheckPasswordSignInAsync(user, request.Password, false);
 
                 if (result.Succeeded)
                 {
-                    // TODo: generate token
+                    // TODO: generate token
                     return new User
                     {
                         DisplayName = user.DisplayName,

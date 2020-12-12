@@ -5,7 +5,7 @@ export interface IActivity {
   category: string;
   date: Date;
   city: string;
-  venue: string;
+  vanue: string;
 }
 export interface IActivityFormValues extends Partial<IActivity>{
   time?: Date
@@ -19,7 +19,7 @@ export class ActivityFormValues implements IActivityFormValues{
   date?: Date=undefined;
   time:Date=undefined;
   city: string="";
-  venue:string= "";
+  vanue:string= "";
 
   constructor(init?:IActivityFormValues){
     if(init && init.date){

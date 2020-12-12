@@ -33,7 +33,7 @@ const ActivityDetailedInfo: React.FC<{activity: IActivity}> = ({activity}) => {
           </Grid.Column>
           <Grid.Column width={11}>
             <span>
-              {activity.venue}, {activity.city}
+              {activity.vanue}, {activity.city}
             </span>
           </Grid.Column>
         </Grid>
