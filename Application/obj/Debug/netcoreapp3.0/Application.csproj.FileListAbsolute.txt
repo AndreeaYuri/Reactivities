@@ -8,7 +8,7 @@ C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Application\bin\
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Application\obj\Debug\netcoreapp3.0\Application.csprojAssemblyReference.cache
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfoInputs.cache
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Application\obj\Debug\netcoreapp3.0\Application.csproj.CoreCompileInputs.cache
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Application\obj\Debug\netcoreapp3.0\Application.csproj.CopyComplete
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Application\obj\Debug\netcoreapp3.0\Application.dll
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Application\obj\Debug\netcoreapp3.0\Application.pdb
-C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\Application\obj\Debug\netcoreapp3.0\Application.csproj.CoreCompileInputs.cache
