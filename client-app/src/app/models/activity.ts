@@ -6,25 +6,36 @@ export interface IActivity {
   date: Date;
   city: string;
   vanue: string;
-}
-export interface IActivityFormValues extends Partial<IActivity>{
-  time?: Date
+  isGoing: boolean;
+  isHost: boolean;
+  attendees: IAttendee[]
 }
 
-export class ActivityFormValues implements IActivityFormValues{
-  id?: string=undefined;
-  title: string="";
-  category: string="";
-  description: string="";
-  date?: Date=undefined;
-  time:Date=undefined;
-  city: string="";
-  vanue:string= "";
+export interface IActivityFormValues extends Partial<IActivity> {
+  time?: Date;
+}
 
-  constructor(init?:IActivityFormValues){
-    if(init && init.date){
-      init.time=init.date;
-    }
-    Object.assign(this,init);
+export class ActivityFormValues implements IActivityFormValues {
+  id?: string = undefined;
+  title: string = '';
+  category: string = '';
+  description: string = '';
+  date?: Date = undefined;
+  time?: Date = undefined;
+  city: string = '';
+  vanue: string = '';
+
+  constructor(init?: IActivityFormValues) {
+      if (init && init.date) {
+          init.time = init.date;
+      }  
+      Object.assign(this, init);
   }
+}
+
+export interface IAttendee {
+  username: string;
+  displayName: string;
+  image: string;
+  isHost: boolean;
 }
