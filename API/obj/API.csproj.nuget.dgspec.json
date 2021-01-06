@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\api\\API.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\api\\API.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -298,6 +298,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[6.8.0, )"

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Jn5A8CJt5BJ4pXr7binSM9/hyhx/GAl+2AalTzn3zbrvAEtGmKksgq7NLRRIcwi9PaIjVn/CPwN9uQ40MtjowA==",
+  "dgSpecHash": "OeT96kbMcOqVOmp/FM93gFLmxTbuo7Sx4TvaelQ83CmYP03Z5QfFUZbRqq4TGCtV35lcSTsYNrwuZshmZ2Rz1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documents\\Andreea Projects\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\cloudinarydotnet\\1.8.0\\cloudinarydotnet.1.8.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",

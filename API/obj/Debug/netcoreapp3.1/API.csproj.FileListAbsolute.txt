@@ -76,3 +76,4 @@ C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\ne
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.dll
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.pdb
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\api\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
