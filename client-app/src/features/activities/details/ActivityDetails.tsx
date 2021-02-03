@@ -7,7 +7,7 @@ import ActivityDetailedInfo from "./ActivityDetailedInfo";
 import ActivityDetailedSidebar from "./ActivityDetailedSidebar";
 import ActivityDetailedHeader from "./ActivityDetailedHeader";
 import ActivityDetailedChat from "./ActivityDetailedChat";
-import { RootStoreContext } from './../../../app/stores/rootStore';
+import { RootStoreContext } from '../../../app/stores/rootStore';
 
 interface DetailParams{
   id:string
