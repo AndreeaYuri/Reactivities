@@ -23,6 +23,7 @@ using Infrastructure.Photos;
 using Application.Photos;
 using API.SignalR;
 using System.Threading.Tasks;
+using Application.Profiles;
 
 namespace API
 {
@@ -32,7 +33,6 @@ namespace API
         {
             Configuration = configuration;
         }
-
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
@@ -103,6 +103,7 @@ namespace API
             services.AddScoped<IJwtGenerator, JwtGenerator>();
             services.AddScoped<IUserAccessor, UserAccessor>();
             services.AddScoped<IPhotoAccessor, PhotoAccessor>();
+            services.AddScoped<IProfileReader, ProfileReader>();
             services.Configure<CloudinarySettings>(Configuration.GetSection("Cloudinary"));
         }
 
