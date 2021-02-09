@@ -32,6 +32,7 @@ namespace Infrastructure.Security
             {
                 Subject = new ClaimsIdentity(claims),
                 Expires = DateTime.Now.AddDays(7),
+                // Expires = DateTime.Now.AddMinutes(1),
                 SigningCredentials = creds
             };
 

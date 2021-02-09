@@ -1,4 +1,3 @@
-import { NumberLiteralType } from "typescript";
 
 export interface IActivitiesEnvelope {
   activities: IActivity[];
