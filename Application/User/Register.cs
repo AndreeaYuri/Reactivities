@@ -62,17 +62,14 @@ namespace Application.User
                     Email = request.Email,
                     UserName = request.UserName
                 };
+
+                var refreshToken = _jwtGenerator.GetRefreshToken();
+                user.RefreshTokens.Add(refreshToken);
                 //handler logic
                 var result = await _userManager.CreateAsync(user, request.Password);
                 if (result.Succeeded)
                 {
-                    return new User
-                    {
-                        DisplayName = user.DisplayName,
-                        Token = _jwtGenerator.CreateToken(user),
-                        Username = user.UserName,
-                        Image = user.Photos.FirstOrDefault(x => x.IsMain)?.Url
-                    };
+                    return new User(user, _jwtGenerator, refreshToken.Token);
                 }
                 throw new Exception("Problem creating user.");
             }
