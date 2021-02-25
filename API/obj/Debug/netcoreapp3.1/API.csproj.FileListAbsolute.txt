@@ -32,9 +32,6 @@ C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\ne
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
-C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\API.StaticWebAssets.xml
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\API.deps.json
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
@@ -77,3 +74,6 @@ C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\ne
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.pdb
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
 C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\api\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\andre\OneDrive\Documents\Andreea Projects\Reactivities\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css

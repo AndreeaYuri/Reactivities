@@ -5,6 +5,7 @@ import { toast } from 'react-toastify';
 import { IUser, IUserFormValues } from '../models/user';
 import { IPhoto, IProfile } from '../models/profile';
 import { IActivitiesEnvelope } from './../models/activity';
+import { request } from 'http';
 
 axios.defaults.baseURL = 'http://localhost:5000/api';
 
@@ -77,7 +78,11 @@ const User = {
     current: (): Promise<IUser> => requests.get('/user'),
     login: (user: IUserFormValues): Promise<IUser> => requests.post(`/user/login`, user),
     register: (user: IUserFormValues): Promise<IUser> => requests.post(`/user/register`, user),
-    refreshToken: (): Promise<IUser> => requests.post(`/user/refreshToken`,{})
+    refreshToken: (): Promise<IUser> => requests.post(`/user/refreshToken`,{}),
+    verifyEmail: (token:string, email:string) : Promise<void> =>
+         requests.post(`/user/verifyEmail`,{token,email}),
+    resendVerifyEmailConfim: (email: string) : Promise<void> =>
+         requests.get(`/user/resendEmailVerification?email=${email}`)
 }
 
 const Profiles = {
